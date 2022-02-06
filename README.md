@@ -31,8 +31,13 @@ def gcd():
  print("GCD of two numbers is:",GCD)
 ~~~
 
+## Sample Input:
+
+![gcd of two number](gcd.png)
+
 ## Output:
-![gcd of two number](img.png)
+
+![gcd of two number](1.png)
 
 
 ## Result:
